@@ -138,7 +138,6 @@ name = "Enforce Compatibility Check";
 value = 1;
 },
 {
-disabled = 1;
 name = "Prevent Name ID";
 value = "16,17";
 },
@@ -122032,6 +122031,10 @@ metricRight = J;
 }
 );
 instances = (
+{
+name = Regular;
+type = variable;
+},
 {
 axesValues = (
 100
