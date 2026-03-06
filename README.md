@@ -9,3 +9,6 @@ Its strong and compressed forms reflect the Finnish spirit of sisu. Ink traps sh
 
 Finlandica Headline supports a wide range of modern Latin-based writing systems and most contemporary Cyrillic scripts. Some historical or extended Cyrillic characters are included for compatibility, but full support for Church Slavonic or other historic orthographies is not intended. Support for non-Latin and non-Cyrillic scripts is not currently included.
 
+## Authors
+
+Finlandica was designed by Helsinki Type Studio.
