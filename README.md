@@ -7,7 +7,7 @@ Finlandica Headline is part of the official Finlandica type family, commissioned
 
 Its strong and compressed forms reflect the Finnish spirit of sisu. Ink traps shaped like rough axe cuts improve clarity at small sizes while adding character at display scale.
 
-Finlandica Headline supports a wide range of modern Latin-based writing systems and most contemporary Cyrillic scripts. Some historical or extended Cyrillic characters are included for compatibility, but full support for Church Slavonic or other historic orthographies is not intended. Support for non-Latin and non-Cyrillic scripts is not currently included.
+Finlandica Headline supports modern Latin-based writing systems and most contemporary Cyrillic scripts. Some historical Cyrillic characters are included for compatibility
 
 ## Authors
 
