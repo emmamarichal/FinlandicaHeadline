@@ -681,6 +681,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 guides = (
@@ -858,6 +867,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 guides = (
@@ -974,6 +992,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 guides = (
@@ -5543,7 +5570,7 @@ unicode = 266;
 glyphname = D;
 kernLeft = KO_H;
 kernRight = KO_O;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-11 16:01:56 +0000";
 layers = (
 {
 anchors = (
@@ -5553,7 +5580,7 @@ pos = (260,0);
 },
 {
 name = center;
-pos = (123,350);
+pos = (133,350);
 },
 {
 name = top;
@@ -6532,7 +6559,7 @@ unicode = 453;
 color = 4;
 glyphname = Eth;
 kernRight = KO_O;
-lastChange = "2025-01-19 17:44:28 +0000";
+lastChange = "2026-03-11 16:01:56 +0000";
 layers = (
 {
 layerId = "3FAB31A8-66C0-4840-B78B-D12B5ED553F3";
@@ -6543,7 +6570,7 @@ pos = (40,0);
 ref = D;
 },
 {
-pos = (-12,99);
+pos = (-2,99);
 ref = _part.stroke;
 }
 );
@@ -124935,7 +124962,7 @@ width = 1003;
 color = 4;
 export = 0;
 glyphname = _part.stroke;
-lastChange = "2026-03-11 15:47:56 +0000";
+lastChange = "2026-03-11 16:07:46 +0000";
 layers = (
 {
 anchors = (
@@ -126231,6 +126258,7 @@ metricRight = J;
 );
 instances = (
 {
+exports = 0;
 name = Italic;
 type = variable;
 },
@@ -126238,20 +126266,20 @@ type = variable;
 axesValues = (
 100
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 userData = {
 fpID = "11D5D40B-66C4-4FFA-9F94-413AA4D965A7";
 };
@@ -126261,158 +126289,158 @@ weightClass = 100;
 axesValues = (
 160
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
 axesValues = (
 250
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
 axesValues = (
 370
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 isItalic = 1;
 name = Italic;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 },
 {
 axesValues = (
 500
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
 axesValues = (
 600
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
 axesValues = (
 700
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
+);
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
 axesValues = (
 800
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
 axesValues = (
 900
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
