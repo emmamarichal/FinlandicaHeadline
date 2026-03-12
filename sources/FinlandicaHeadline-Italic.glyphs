@@ -105034,6 +105034,42 @@ R = NoKerning;
 };
 },
 {
+glyphname = lineseparator;
+layers = (
+{
+layerId = "3FAB31A8-66C0-4840-B78B-D12B5ED553F3";
+width = 600;
+},
+{
+layerId = "DF61F520-A841-4152-8991-D5A31692CC39";
+width = 600;
+},
+{
+layerId = "0E062E17-1137-409C-98D3-1192050A59FC";
+width = 600;
+}
+);
+unicode = 8232;
+},
+{
+glyphname = paragraphseparator;
+layers = (
+{
+layerId = "3FAB31A8-66C0-4840-B78B-D12B5ED553F3";
+width = 600;
+},
+{
+layerId = "DF61F520-A841-4152-8991-D5A31692CC39";
+width = 600;
+},
+{
+layerId = "0E062E17-1137-409C-98D3-1192050A59FC";
+width = 600;
+}
+);
+unicode = 8233;
+},
+{
 glyphname = period;
 kernLeft = KO_period;
 kernRight = KO_period;
