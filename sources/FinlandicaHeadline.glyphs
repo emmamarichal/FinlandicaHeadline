@@ -1,44 +1,6 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"Zero Handles:
-Ѵ
-
-Outward Handles:
-Nǋ/Nj.ss01 ŊWwИҊҜҎиҋҝ/six.dnom ⁶?™ℓ№₦₩
-
-Cusping Handles:
-69/six.dnom/nine.dnom ⁶⁹
-
-Large Handles:
-DDDǄǄǄǅǅǅƏƏOƠỠØŒQQQææddǆǆðeegǥœœœppþþqßºҔДДЛЛОУФЋЮЮЂЂѠѤѤѪѬѮѮѲѴѴѸҦҨҨҸҼҼӅӅӘӘӨӼҀбб/ve-cy.loclBGR ҕҕеефчєѫѫѭѭѯѳѵѵѹѹѹҷҹҽҽӄӄӄӌҏҏҏ05689/zero.zero/zero.dnom/zero.dnom/six.dnom/six.dnom/eight.dnom/nine.dnom/nine.dnom ⁰⁰⁶⁶⁸⁹⁹??ℓℓℓ№₡₫₫₴₧₧∞∂
-
-Short Handles:
-AA/A.ss01/A.ss01 ǄǄǄǅǅǅỆỆỆƷƷMMMNNǋǋ/Nj.ss01/Nj.ss01 ŊŊỘỘỘŒQQQRRRẞẞVVWWXXYYZZ/Z.ss01/Z.ss01 aaaậậậæææbbddǆǆǆððệệệʒʒggǥǥ/icaron.ss01/icaron.ss01/icaron.ss01 lǉ/lj.ss01 łộộộœœœpppþþþqqrsßtuuưưvvwwxxyzzz/f_f_l ﬂªªªААҔҔҔДДДИИҊҊУФФФЧЋЋЯЯЯЂЂЂѤѦѨѪѪѪѬѬѬѮѮѮѴѴѴѸѸѸҜҜҜҦҦҦҨҰҰҲҲҶҸҸҸҺӃӃӃӋӍӍӍӼӼӾӾҀҎҎҎаааббб/ve-cy.loclBGR/ve-cy.loclBGR/ve-cy.loclBGR ҕҕҕдддиии/ii-cy.loclBGR/ii-cy.loclBGR ҋҋҋмммуфффччяяяѧѧѧѩѩѩѫѫѫѭѭѭѯѯѯѵѵѵѹѹѹҝҝҝҧҧҧүүұұҳҳҷҷҹҹҹҽӄӄӄӌӌӎӎӎӽӽӿӿҁҏҏҏΔμμπ55667899/two.osf/zero.dnom/zero.dnom/two.dnom/five.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/seven.dnom/seven.dnom/seven.dnom/eight.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom/nine.dnom/two.numr/five.numr/five.numr/five.numr/seven.numr/seven.numr/seven.numr ⁰⁰²⁵⁵⁵⁶⁶⁶⁷⁷⁷⁸⁸⁸⁹⁹⁹,,,?*#{{{}}}”””’’’‹‹››@@@§®®®™™™ℓℓ℮№№₫₫₴₤₤₦₦₧₹₹₹£₩₩¥¥><≥≥≥≤≤≤^∞∞∞∑∑∑√∂∂∂↑↑↑↔↔↔↕↕↕◊◊̂̂̂̌̌̌̉̉̒̒̒/brevecomb_hookabovecomb/brevecomb_hookabovecomb/circumflexcomb_acutecomb/circumflexcomb_acutecomb/circumflexcomb_acutecomb/circumflexcomb_gravecomb/circumflexcomb_gravecomb/circumflexcomb_gravecomb/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb/circumflexcomb_hookabovecomb ʼʼʼ/_part.bowl/_part.bowl/_part.bowl 
-
-Angled Handles:
-AA/A.ss01/A.ss01 CCDDDǄǄǄǅǅǅƏƏƏƷƷƷGG/G.ss01/G.ss01/G.ss01 ǤǤǤ/IJ.ss01/J.ss01 ǈ/Lj.ss01 MMNǋǋ/Nj.ss01 ŊŊOƠỠØØŒŒŒQQRSSẞẞẞUUƯƯVVWWXYæææbbbcccdddǆǆǆðððeeeʒʒgggǥǥǥĳ/ij.ss01 ȷ/jdotless.ss01 ǉ/lj.ss01 ǌ/nj.ss01 ŋoooỡỡỡøøøœœœpppþþþqqqsssßßßttưwwy/i_j.loclNLD.ss01 ºººААҔДДДЗИИҊҊЛЛЛОУУФФФЉЉЉЄЄЄЭЭЭЋЮЮЮЯЂѠѤѤѤѦѨѪѬѮѮѰѰѰѲѲѴѴѸѸѸҨҨҨҰҲҸҸҸҺҼҼҼӅӅӅӇӋӍӍӘӘӘӨӨӨӺӼӾҀҀҀҎбббв/ve-cy.loclBGR/ve-cy.loclBGR ҕдддееез/ze-cy.loclBGR ииҋҋлллммоооуфффљљљєєєјюююяђѥѥѥѫѭѯѱѱѱѳѳѳѵѵѹѹѹҧҩҩҩүұҹҹҽҽҽӆӆӆӈӎӎөөөӻӽҁҁҁҏҏҏΔΔΩΩ03555666888999/zero.osf/zero.osf/zero.osf/zero.zero/zero.zero/zero.zero/zero.dnom/zero.dnom/zero.dnom/three.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/eight.dnom/eight.dnom/eight.dnom/nine.dnom/nine.dnom/nine.dnom/three.numr/five.numr/five.numr ⁰⁰⁰³⁵⁵⁶⁶⁶⁸⁸⁸⁹⁹⁹,,?((())){{{}}}”’ƒƒƒ฿฿@@&&&§§§©©™ℓℓℓ№№₵₵₵¢¢¢₡₡₡$$$₫₫₫€€€₴₴₤₦£₲₲₲₩₩¥≥≤∫∫∫√√∂%‰↑↑↔↔↕↕̧̧̧̨̨̒̒̒ʼ/_part.abkhasian-hook/_part.abkhasian-hook/_part.abkhasian-hook.case/_part.hook-cy/_part.hook-cy.case/Jcomb.ss01 
-
-Shallow Curve:
-69/six.dnom/nine.dnom ⁶⁹
-
-Small Curve BBox:
-CDDDǄǄǄǅǅǅŒŒQQQbcdddǆǆǆððgggǥǥǥoỡøœœœpppþþþqqquưºҔЧЄЭЋЮѤѤѴѴѴѸѸѸҦҨҶҸҺӋҀҎҎҎб/ii-cy.loclBGR офчєюѳѵѵѵѹѹѹҧҩҷҹӌҁҁҁҏҏҏμ556699/zero.zero/zero.dnom/zero.dnom/zero.dnom/five.dnom/five.dnom/six.dnom/six.dnom/six.dnom/nine.dnom/nine.dnom/nine.dnom/five.numr/five.numr ⁰⁰⁰⁵⁵⁶⁶⁶⁹⁹⁹?ℓℓℓ℮№₵¢₡₫₫₫€₴₴∂̉/brevecomb_hookabovecomb/circumflexcomb_hookabovecomb 
-
-Short Line Segments:
-ҹ
-
-Bad Outline Order:
-/Ef-cy.loclBGR/Ef-cy.loclBGR/Ef-cy.loclBGR 
-
-Bad Path Orientation:
-ØØØøøø/Ef-cy.loclBGR/Ef-cy.loclBGR/Ef-cy.loclBGR ѲѲѲѸѸѸыыыѳѳѳ₱₱₱∕∕∕∅∅∅
-
-",
-"/_part.stroke ÐƗŦƀđɨ/istroke.ss01 ғ₣",
-"/_part.stroke ÐƗŦƀđɨ/istroke.ss01 ғ₣"
-);
 axes = (
 {
 name = Weight;
@@ -716,6 +678,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
 }
 );
 guides = (
@@ -931,6 +902,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
 }
 );
 guides = (
@@ -1046,6 +1026,15 @@ value = 331;
 {
 name = "Master Icon Glyph Name";
 value = a;
+},
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
 }
 );
 guides = (
@@ -121756,6 +121745,7 @@ metricRight = J;
 );
 instances = (
 {
+exports = 0;
 name = Regular;
 type = variable;
 },
@@ -121763,134 +121753,145 @@ type = variable;
 axesValues = (
 100
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 100;
+}
+);
+}
+);
 instanceInterpolations = {
 "5997FD7B-85B3-4973-BC7D-5D24E7B00D9D" = 1;
 };
 name = Thin;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
 axesValues = (
 160
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 200;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.15;
 "5997FD7B-85B3-4973-BC7D-5D24E7B00D9D" = 0.85;
 };
 name = ExtraLight;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
 axesValues = (
 250
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 300;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.375;
 "5997FD7B-85B3-4973-BC7D-5D24E7B00D9D" = 0.625;
 };
 name = Light;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
 axesValues = (
 370
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 400;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.675;
 "5997FD7B-85B3-4973-BC7D-5D24E7B00D9D" = 0.325;
 };
 name = Regular;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 },
 {
 axesValues = (
 500
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 500;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 1;
 };
 name = Medium;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
 axesValues = (
 600
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 600;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.75;
 "69BA87E8-A4A5-4412-BDDB-89C34BF38660" = 0.25;
 };
 name = SemiBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
 axesValues = (
 700
+);
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 700;
+}
+);
+}
 );
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.5;
@@ -121898,60 +121899,49 @@ instanceInterpolations = {
 };
 isBold = 1;
 name = Bold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
 axesValues = (
 800
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 800;
+}
+);
+}
+);
 instanceInterpolations = {
 "0D76174C-E7DB-4B5D-B958-B4B8505ED925" = 0.25;
 "69BA87E8-A4A5-4412-BDDB-89C34BF38660" = 0.75;
 };
 name = ExtraBold;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
 axesValues = (
 900
 );
+customParameters = (
+{
+name = "Axis Location";
+value = (
+{
+Axis = Weight;
+Location = 900;
+}
+);
+}
+);
 instanceInterpolations = {
 "69BA87E8-A4A5-4412-BDDB-89C34BF38660" = 1;
 };
 name = Black;
-properties = (
-{
-key = familyNames;
-values = (
-{
-language = dflt;
-value = "Finlandica Headline";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
