@@ -5,6 +5,7 @@
       - wght
       - ital
     familyName: "Finlandica Headline"
+    cleanUp: true
     stat:
       FinlandicaHeadline[wght].ttf:
       - name: Weight
