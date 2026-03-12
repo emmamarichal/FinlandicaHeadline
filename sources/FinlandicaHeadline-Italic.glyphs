@@ -1,10 +1,6 @@
 {
 .appVersion = "3516";
 .formatVersion = 3;
-DisplayStrings = (
-"/_part.stroke ÐƗŦƀđɨ/istroke.ss01 ŧ₣/Istroke.001/Tbar.001/bstroke.001/dcroat.001/istroke.001/istroke.ss01.001/tbar.001/franc.001",
-"a/_part.stroke/_part.stroke.left/_part.stroke.left.case"
-);
 axes = (
 {
 name = Weight;
@@ -37343,7 +37339,7 @@ unicode = 239;
 {
 color = 9;
 glyphname = idieresis.ss01;
-lastChange = "2025-01-19 15:33:47 +0000";
+lastChange = "2026-03-12 12:53:58 +0000";
 layers = (
 {
 anchors = (
@@ -37369,10 +37365,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(105,618,l),
-(118,700,l),
-(98,700,l),
-(86,618,l)
+(218,618,l),
+(230,700,l),
+(210,700,l),
+(199,618,l)
 );
 },
 {
@@ -37387,10 +37383,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(218,618,l),
-(230,700,l),
-(210,700,l),
-(199,618,l)
+(105,618,l),
+(118,700,l),
+(98,700,l),
+(86,618,l)
 );
 }
 );
@@ -94530,7 +94526,7 @@ public.markColor = "0.97,1,0,1";
 },
 {
 glyphname = "hastroke-cy";
-lastChange = "2026-03-11 15:47:28 +0000";
+lastChange = "2026-03-12 12:54:33 +0000";
 layers = (
 {
 anchors = (
@@ -94615,10 +94611,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(191,209,l),
-(204,299,l),
-(59,299,l),
-(46,209,l)
+(428,209,l),
+(441,299,l),
+(304,299,l),
+(291,209,l)
 );
 },
 {
@@ -94649,10 +94645,10 @@ nodes = (
 {
 closed = 1;
 nodes = (
-(428,209,l),
-(441,299,l),
-(304,299,l),
-(291,209,l)
+(191,209,l),
+(204,299,l),
+(59,299,l),
+(46,209,l)
 );
 }
 );
@@ -105326,14 +105322,13 @@ com.schriftgestaltung.Glyphs.rightMetricsKey = comma;
 glyphname = ellipsis;
 kernLeft = KO_ellipsis;
 kernRight = KO_ellipsis;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-12 12:53:31 +0000";
 layers = (
 {
 layerId = "3FAB31A8-66C0-4840-B78B-D12B5ED553F3";
 shapes = (
 {
 alignment = -1;
-pos = (144,0);
 ref = period;
 },
 {
@@ -105343,6 +105338,7 @@ ref = period;
 },
 {
 alignment = -1;
+pos = (144,0);
 ref = period;
 }
 );
@@ -105353,7 +105349,6 @@ layerId = "DF61F520-A841-4152-8991-D5A31692CC39";
 shapes = (
 {
 alignment = -1;
-pos = (228,0);
 ref = period;
 },
 {
@@ -105363,6 +105358,7 @@ ref = period;
 },
 {
 alignment = -1;
+pos = (228,0);
 ref = period;
 }
 );
@@ -105377,12 +105373,12 @@ ref = period;
 },
 {
 alignment = -1;
-pos = (298,0);
+pos = (597,0);
 ref = period;
 },
 {
 alignment = -1;
-pos = (597,0);
+pos = (298,0);
 ref = period;
 }
 );
@@ -119153,7 +119149,7 @@ com.schriftgestaltung.Glyphs.ColorIndex = 3;
 },
 {
 glyphname = infinity;
-lastChange = "2025-01-19 17:48:57 +0000";
+lastChange = "2026-03-12 12:52:58 +0000";
 layers = (
 {
 layerId = "3FAB31A8-66C0-4840-B78B-D12B5ED553F3";
@@ -119328,6 +119324,9 @@ nodes = (
 {
 closed = 1;
 nodes = (
+(216,208,o),
+(195,237,o),
+(201,284,cs),
 (209,337,o),
 (248,370,o),
 (301,370,cs),
@@ -119336,15 +119335,15 @@ nodes = (
 (404,298,c),
 (339,234,o),
 (296,208,o),
-(258,208,cs),
-(216,208,o),
-(195,237,o),
-(201,284,cs)
+(258,208,cs)
 );
 },
 {
 closed = 1;
 nodes = (
+(703,208,o),
+(671,230,o),
+(624,283,c),
 (688,345,o),
 (731,370,o),
 (771,370,cs),
@@ -119353,10 +119352,7 @@ nodes = (
 (827,294,cs),
 (820,241,o),
 (782,208,o),
-(728,208,cs),
-(703,208,o),
-(671,230,o),
-(624,283,c)
+(728,208,cs)
 );
 }
 );
@@ -132067,6 +132063,7 @@ name = "Thin Italic";
 userData = {
 fpID = "11D5D40B-66C4-4FFA-9F94-413AA4D965A7";
 };
+visible = 0;
 weightClass = 100;
 },
 {
@@ -132087,6 +132084,7 @@ Location = 200;
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
+visible = 0;
 weightClass = 200;
 },
 {
@@ -132107,6 +132105,7 @@ Location = 300;
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
+visible = 0;
 weightClass = 300;
 },
 {
@@ -132126,6 +132125,7 @@ Location = 400;
 );
 isItalic = 1;
 name = Italic;
+visible = 0;
 },
 {
 axesValues = (
