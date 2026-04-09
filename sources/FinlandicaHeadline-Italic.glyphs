@@ -61,7 +61,7 @@ name = "Export DSIG Table";
 value = 0;
 }
 );
-date = "2025-03-13 13:33:56 +0000";
+date = "2026-04-09 18:15:52 +0000";
 familyName = "Finlandica Headline";
 featurePrefixes = (
 {
@@ -166319,5 +166319,5 @@ KernOnRegenerateGroups = 1;
 KernOnVersion = "1.33";
 };
 versionMajor = 3;
-versionMinor = 101;
+versionMinor = 102;
 }
