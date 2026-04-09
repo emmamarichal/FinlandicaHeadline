@@ -1,5 +1,5 @@
 {
-.appVersion = "3516";
+.appVersion = "3436";
 .formatVersion = 3;
 axes = (
 {
@@ -131156,6 +131156,9 @@ Location = 100;
 );
 }
 );
+instanceInterpolations = {
+"3FAB31A8-66C0-4840-B78B-D12B5ED553F3" = 1;
+};
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
@@ -131179,6 +131182,10 @@ Location = 200;
 );
 }
 );
+instanceInterpolations = {
+"3FAB31A8-66C0-4840-B78B-D12B5ED553F3" = 0.85;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.15;
+};
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
@@ -131199,6 +131206,10 @@ Location = 300;
 );
 }
 );
+instanceInterpolations = {
+"3FAB31A8-66C0-4840-B78B-D12B5ED553F3" = 0.625;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.375;
+};
 isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
@@ -131219,6 +131230,10 @@ Location = 400;
 );
 }
 );
+instanceInterpolations = {
+"3FAB31A8-66C0-4840-B78B-D12B5ED553F3" = 0.325;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.675;
+};
 isItalic = 1;
 name = Italic;
 },
@@ -131237,6 +131252,9 @@ Location = 500;
 );
 }
 );
+instanceInterpolations = {
+"DF61F520-A841-4152-8991-D5A31692CC39" = 1;
+};
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
@@ -131257,6 +131275,10 @@ Location = 600;
 );
 }
 );
+instanceInterpolations = {
+"0E062E17-1137-409C-98D3-1192050A59FC" = 0.25;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.75;
+};
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
@@ -131277,6 +131299,10 @@ Location = 700;
 );
 }
 );
+instanceInterpolations = {
+"0E062E17-1137-409C-98D3-1192050A59FC" = 0.5;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.5;
+};
 isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
@@ -131297,6 +131323,10 @@ Location = 800;
 );
 }
 );
+instanceInterpolations = {
+"0E062E17-1137-409C-98D3-1192050A59FC" = 0.75;
+"DF61F520-A841-4152-8991-D5A31692CC39" = 0.25;
+};
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
@@ -131317,6 +131347,9 @@ Location = 900;
 );
 }
 );
+instanceInterpolations = {
+"0E062E17-1137-409C-98D3-1192050A59FC" = 1;
+};
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
@@ -166260,7 +166293,6 @@ value = "Finlandica is a trademark of Helsinki Type Studio.";
 }
 );
 settings = {
-fontType = variable;
 keepAlternatesTogether = 1;
 previewRemoveOverlap = 0;
 };
