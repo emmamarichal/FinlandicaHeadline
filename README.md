@@ -1,13 +1,14 @@
 ![finlandica main image](https://github.com/HelsinkiTypeStudio/FinlandicaHeadline/blob/main/documentation/finlandica-headline.png)
 
-
 # FinlandicaHeadline
 
-Finlandica Headline is part of the official Finlandica type family, commissioned by the Prime Minister’s Office and Business Finland to promote Finnish exports. The design reflects a distinctly Finnish quality: honest and resilient determination sisu. In the spirit of Jokaisenoikeus, the typeface is released as an open-source project.
+Finlandica is the official typeface of Finland, commissioned by the Prime Minister‘s Office, and free to use by everyone in the spirit of Jokaisenoikeus.
 
-Its strong and compressed forms reflect the Finnish spirit of sisu. Ink traps shaped like rough axe cuts improve clarity at small sizes while adding character at display scale.
+Finlandica Headline has strong and compressed shapes reflecting a distinctly Finnish sense of honest and resilient determination — Sisu. Counter shapes like cuts from a blunt axe improve clarity at small sizes while adding character at headline scale.
 
-Finlandica Headline supports modern Latin-based writing systems and most contemporary Cyrillic scripts. Some historical Cyrillic characters are included for compatibility.
+The companion typeface Finlandica Text is designed to complement the unique character of Headline with quiet clarity for body text.
+
+Finlandica supports a wide range of Latin and Cyrillic scripts.
 
 ## Authors
 
